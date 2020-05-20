@@ -10,7 +10,7 @@ This repository contains the 3D/Art/Map content for the PSOBB2 project. It's des
 
 Maps are defined in the Map.GDBC file within the PSOBB2 client. Maps can be thought of as levels/floors in PSO terminology but in Unity3D terms maps will be Scene assets. Scenes will contain all the content related to maps. This content should be in the following path format.
 
-Assets->Content->World->Maps->**MAPNAME**/**MAPNAME**.scene
+Assets->Content->World->Maps->**MAPNAME**->**MAPNAME**.scene
 
 The **MAPNAME** should match the Map.GDBC Directory column.
 
