@@ -10,9 +10,20 @@ This repository contains the 3D/Art/Map content for the PSOBB2 project. It's des
 
 Maps are defined in the Map.GDBC file within the PSOBB2 client. Maps can be thought of as levels/floors in PSO terminology but in Unity3D terms maps will be Scene assets. Scenes will contain all the content related to maps. This content should be in the following path format.
 
-Assets->Content->World->Maps->**MAPNAME**->**MAPNAME**.scene
+**Path:** Assets->Content->World->Maps->**MAPNAME**->**MAPNAME**.scene
 
 The **MAPNAME** should match the Map.GDBC Directory column.
+
+Additionally the raw 3D imported form of a map can usually be found within the WMO (World Map Object) directory. This is usually the raw FBX/OBJ import of the map data.
+
+**Path:** Assets->Content->World->Wmo->
+**Path:** Assets->Content->World->Wmo->Dungeons->
+
+## Decorations/Doodads
+
+Decorative objects such as boxes or maybe a tree will be referred to as a Doodad. Doodads will be interspersed throughout the World directory. They will not be in reserved folders. Each Doodad should be contained within its own subfolder.
+
+**Path:** World->
 
 # Requirements
 
