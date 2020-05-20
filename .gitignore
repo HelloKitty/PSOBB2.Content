@@ -5,6 +5,16 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# Lightmaps
+[Ll]ightmap-*.exr
+[Rr]eflectionProbe-*.exr
+[Ll]ightmap-*.png
+
+[Ll]ightmap-*.exr.meta
+[Rr]eflectionProbe-*.exr.meta
+[Ll]ightmap-*.png.meta
+
+
 # Visual Studio cache directory
 .vs/
 
