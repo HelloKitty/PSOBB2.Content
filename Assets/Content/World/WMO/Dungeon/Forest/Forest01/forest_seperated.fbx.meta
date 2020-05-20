@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: b525f0f10b8b29346a6a6b8ccd442564
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: Frame mesh001
+    100006: Frame mesh001.001
+    100008: Frame mesh001.002
+    100010: Frame mesh001.003
+    100012: Frame mesh001.004
+    100014: Frame mesh001.005
+    100016: Frame mesh001.006
+    100018: Frame mesh001.007
+    100020: Frame mesh001.008
+    100022: Frame mesh001.009
+    100024: Frame mesh001.010
+    100026: Frame mesh001.011
+    100028: Frame mesh001.012
+    100030: Frame mesh001.013
+    100032: Frame mesh001.014
+    100034: Frame mesh001.015
+    100036: Frame mesh001.016
+    100038: Frame mesh001.017
+    100040: Frame mesh001.018
+    100042: Frame mesh001.019
+    100044: Frame mesh001.020
+    100046: Frame mesh001.021
+    100048: Frame mesh001.022
+    100050: Frame mesh001.023
+    100052: Frame mesh001.024
+    100054: Frame mesh001.025
+    100056: Frame mesh001.026
+    100058: Frame mesh001.027
+    100060: Frame mesh001.028
+    100062: Frame mesh001.029
+    100064: Frame mesh001.030
+    100066: Frame mesh001.031
+    100068: Frame mesh001.032
+    100070: Frame mesh001.033
+    100072: Frame mesh001.034
+    100074: Frame mesh001.035
+    100076: Frame mesh001.036
+    100078: Frame mesh001.037
+    100080: Frame mesh001.038
+    100082: Frame mesh001.039
+    100084: Frame mesh001.040
+    100086: Frame mesh001.041
+    100088: Frame mesh001.042
+    100090: Frame mesh001.043
+    100092: Frame mesh001.044
+    100094: Frame mesh001.045
+    100096: Frame mesh001.046
+    100098: Frame mesh001.047
+    100100: Lamp
+    400000: Camera
+    400002: //RootNode
+    400004: Frame mesh001
+    400006: Frame mesh001.001
+    400008: Frame mesh001.002
+    400010: Frame mesh001.003
+    400012: Frame mesh001.004
+    400014: Frame mesh001.005
+    400016: Frame mesh001.006
+    400018: Frame mesh001.007
+    400020: Frame mesh001.008
+    400022: Frame mesh001.009
+    400024: Frame mesh001.010
+    400026: Frame mesh001.011
+    400028: Frame mesh001.012
+    400030: Frame mesh001.013
+    400032: Frame mesh001.014
+    400034: Frame mesh001.015
+    400036: Frame mesh001.016
+    400038: Frame mesh001.017
+    400040: Frame mesh001.018
+    400042: Frame mesh001.019
+    400044: Frame mesh001.020
+    400046: Frame mesh001.021
+    400048: Frame mesh001.022
+    400050: Frame mesh001.023
+    400052: Frame mesh001.024
+    400054: Frame mesh001.025
+    400056: Frame mesh001.026
+    400058: Frame mesh001.027
+    400060: Frame mesh001.028
+    400062: Frame mesh001.029
+    400064: Frame mesh001.030
+    400066: Frame mesh001.031
+    400068: Frame mesh001.032
+    400070: Frame mesh001.033
+    400072: Frame mesh001.034
+    400074: Frame mesh001.035
+    400076: Frame mesh001.036
+    400078: Frame mesh001.037
+    400080: Frame mesh001.038
+    400082: Frame mesh001.039
+    400084: Frame mesh001.040
+    400086: Frame mesh001.041
+    400088: Frame mesh001.042
+    400090: Frame mesh001.043
+    400092: Frame mesh001.044
+    400094: Frame mesh001.045
+    400096: Frame mesh001.046
+    400098: Frame mesh001.047
+    400100: Lamp
+    2300000: Frame mesh001
+    2300002: Frame mesh001.001
+    2300004: Frame mesh001.002
+    2300006: Frame mesh001.003
+    2300008: Frame mesh001.004
+    2300010: Frame mesh001.005
+    2300012: Frame mesh001.006
+    2300014: Frame mesh001.007
+    2300016: Frame mesh001.008
+    2300018: Frame mesh001.009
+    2300020: Frame mesh001.010
+    2300022: Frame mesh001.011
+    2300024: Frame mesh001.012
+    2300026: Frame mesh001.013
+    2300028: Frame mesh001.014
+    2300030: Frame mesh001.015
+    2300032: Frame mesh001.016
+    2300034: Frame mesh001.017
+    2300036: Frame mesh001.018
+    2300038: Frame mesh001.019
+    2300040: Frame mesh001.020
+    2300042: Frame mesh001.021
+    2300044: Frame mesh001.022
+    2300046: Frame mesh001.023
+    2300048: Frame mesh001.024
+    2300050: Frame mesh001.025
+    2300052: Frame mesh001.026
+    2300054: Frame mesh001.027
+    2300056: Frame mesh001.028
+    2300058: Frame mesh001.029
+    2300060: Frame mesh001.030
+    2300062: Frame mesh001.031
+    2300064: Frame mesh001.032
+    2300066: Frame mesh001.033
+    2300068: Frame mesh001.034
+    2300070: Frame mesh001.035
+    2300072: Frame mesh001.036
+    2300074: Frame mesh001.037
+    2300076: Frame mesh001.038
+    2300078: Frame mesh001.039
+    2300080: Frame mesh001.040
+    2300082: Frame mesh001.041
+    2300084: Frame mesh001.042
+    2300086: Frame mesh001.043
+    2300088: Frame mesh001.044
+    2300090: Frame mesh001.045
+    2300092: Frame mesh001.046
+    2300094: Frame mesh001.047
+    3300000: Frame mesh001
+    3300002: Frame mesh001.001
+    3300004: Frame mesh001.002
+    3300006: Frame mesh001.003
+    3300008: Frame mesh001.004
+    3300010: Frame mesh001.005
+    3300012: Frame mesh001.006
+    3300014: Frame mesh001.007
+    3300016: Frame mesh001.008
+    3300018: Frame mesh001.009
+    3300020: Frame mesh001.010
+    3300022: Frame mesh001.011
+    3300024: Frame mesh001.012
+    3300026: Frame mesh001.013
+    3300028: Frame mesh001.014
+    3300030: Frame mesh001.015
+    3300032: Frame mesh001.016
+    3300034: Frame mesh001.017
+    3300036: Frame mesh001.018
+    3300038: Frame mesh001.019
+    3300040: Frame mesh001.020
+    3300042: Frame mesh001.021
+    3300044: Frame mesh001.022
+    3300046: Frame mesh001.023
+    3300048: Frame mesh001.024
+    3300050: Frame mesh001.025
+    3300052: Frame mesh001.026
+    3300054: Frame mesh001.027
+    3300056: Frame mesh001.028
+    3300058: Frame mesh001.029
+    3300060: Frame mesh001.030
+    3300062: Frame mesh001.031
+    3300064: Frame mesh001.032
+    3300066: Frame mesh001.033
+    3300068: Frame mesh001.034
+    3300070: Frame mesh001.035
+    3300072: Frame mesh001.036
+    3300074: Frame mesh001.037
+    3300076: Frame mesh001.038
+    3300078: Frame mesh001.039
+    3300080: Frame mesh001.040
+    3300082: Frame mesh001.041
+    3300084: Frame mesh001.042
+    3300086: Frame mesh001.043
+    3300088: Frame mesh001.044
+    3300090: Frame mesh001.045
+    3300092: Frame mesh001.046
+    3300094: Frame mesh001.047
+    4300000: Frame mesh001.047
+    4300002: Frame mesh001.046
+    4300004: Frame mesh001.045
+    4300006: Frame mesh001.044
+    4300008: Frame mesh001.043
+    4300010: Frame mesh001.042
+    4300012: Frame mesh001.041
+    4300014: Frame mesh001.040
+    4300016: Frame mesh001.039
+    4300018: Frame mesh001.038
+    4300020: Frame mesh001.037
+    4300022: Frame mesh001.036
+    4300024: Frame mesh001.035
+    4300026: Frame mesh001.034
+    4300028: Frame mesh001.033
+    4300030: Frame mesh001.032
+    4300032: Frame mesh001.031
+    4300034: Frame mesh001.030
+    4300036: Frame mesh001.029
+    4300038: Frame mesh001.028
+    4300040: Frame mesh001.027
+    4300042: Frame mesh001.026
+    4300044: Frame mesh001.025
+    4300046: Frame mesh001.024
+    4300048: Frame mesh001.023
+    4300050: Frame mesh001.022
+    4300052: Frame mesh001.021
+    4300054: Frame mesh001.020
+    4300056: Frame mesh001.019
+    4300058: Frame mesh001.018
+    4300060: Frame mesh001.017
+    4300062: Frame mesh001.016
+    4300064: Frame mesh001.015
+    4300066: Frame mesh001.014
+    4300068: Frame mesh001.013
+    4300070: Frame mesh001.012
+    4300072: Frame mesh001.011
+    4300074: Frame mesh001.010
+    4300076: Frame mesh001.009
+    4300078: Frame mesh001.008
+    4300080: Frame mesh001.007
+    4300082: Frame mesh001.006
+    4300084: Frame mesh001.005
+    4300086: Frame mesh001.004
+    4300088: Frame mesh001.003
+    4300090: Frame mesh001.002
+    4300092: Frame mesh001.001
+    4300094: Frame mesh001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02931601.dds
+    second: {fileID: 2100000, guid: 8763807a2e7281f4ea9b2e203add716c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04403fe5.dds
+    second: {fileID: 2100000, guid: c9004f94f2cf7774fa84f9b8edfbb0f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04b31a7a.dds
+    second: {fileID: 2100000, guid: 4d1b61a6cbff9ee41b02b85ff3d6067e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08750010.dds
+    second: {fileID: 2100000, guid: c4d5cc0236fca9d45b7965d13a495835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0e206f4f.dds
+    second: {fileID: 2100000, guid: f84b65716b7e05d42b68372178d8a75a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0faf6c3b.dds
+    second: {fileID: 2100000, guid: 7c71ee02e2e32d145995b5e748a8c01a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20e07523.dds
+    second: {fileID: 2100000, guid: 12e60c4f58788d24b8692fcbfb3e57f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2446b5e2.dds
+    second: {fileID: 2100000, guid: 8773d17f10aed754895d9fbd02528a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2fbcab39.dds
+    second: {fileID: 2100000, guid: 8d88a6ea473f488408392463dc1bb3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 31bf5832.dds
+    second: {fileID: 2100000, guid: 473520e2d7e27bf4a8551fe17e4f0709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3cd94447.dds
+    second: {fileID: 2100000, guid: 9dda8677839b8e046abe85c83b7274be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 407ef51a.dds
+    second: {fileID: 2100000, guid: 4ee3d26ca6c6d3647b5607443b6e6a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 462ce8a1.dds
+    second: {fileID: 2100000, guid: 48438fa9613237947aa024ab45817a61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4b291c81.dds
+    second: {fileID: 2100000, guid: ab7270e0da804564a8405d153f2f57c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 51b3e6b0.dds
+    second: {fileID: 2100000, guid: c30037e70c50eeb4fb207cc8f260c688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 51d405bd.dds
+    second: {fileID: 2100000, guid: f1e98658b43273747b9c52f8dcca2972, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5734ea84.dds
+    second: {fileID: 2100000, guid: df35213bc18baec4d832d1226eeaa599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5b4270a2.dds
+    second: {fileID: 2100000, guid: b429cde25c3ddf8498f5e199430f74d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 60d5b603.dds
+    second: {fileID: 2100000, guid: e85daf2d56a9871418d6025ad1b9bdc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 782d24c0.dds
+    second: {fileID: 2100000, guid: d7a6a55f694186149b7cc4cbd1bc2d65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7aaccb14.dds
+    second: {fileID: 2100000, guid: b0833dff9d025cf4486ba8b2b8347b2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7d0d2da2.dds
+    second: {fileID: 2100000, guid: 95d5f27b359ccbd4d83dd320fdec0b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7d851f9b.dds
+    second: {fileID: 2100000, guid: 4e520b393bc60124f8f126c9a35ba5ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 85f78dae.dds
+    second: {fileID: 2100000, guid: dc58d9cc52e351047bd02c9d03a3e7de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 86a0af47.dds
+    second: {fileID: 2100000, guid: a910416e642dcb44fbc0d97c03924960, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9264eaa2.dds
+    second: {fileID: 2100000, guid: 1d7cc4f03c3a22d43912449c1935e3f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 98562d24.dds
+    second: {fileID: 2100000, guid: c69c0327474d14f48aa8ccfb7b3d5b7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 992f8020.dds
+    second: {fileID: 2100000, guid: 899751a82a171db4b81ac75d9211ab9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a2d35cee.dds
+    second: {fileID: 2100000, guid: c3068b77e5820ca4fabfaf75f10b8c6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a59060cd.dds
+    second: {fileID: 2100000, guid: 2c06534111f287d45ad05435c0b91f32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a939b7f6.dds
+    second: {fileID: 2100000, guid: cf990b3209270f440a992103b882176f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a9832fe6.dds
+    second: {fileID: 2100000, guid: 29d2badaf02feda40bc6c360bb5c4396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ab8f1515.dds
+    second: {fileID: 2100000, guid: 46355cf9c0d19a641b9cd3f1cce5b35d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bfd92067.dds
+    second: {fileID: 2100000, guid: cc7d3b7c72a1e4c4fa658707cf3457d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c3bff44b.dds
+    second: {fileID: 2100000, guid: 533d647889f469646ab0c28d7ee564bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc451c92.dds
+    second: {fileID: 2100000, guid: fc9c8f93e2754ad49bc49812d7b0d408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d089f3ad.dds
+    second: {fileID: 2100000, guid: 272a2cc6572e760408adb36b2504c13c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dacd3cfc.dds
+    second: {fileID: 2100000, guid: b08717589e8f498478e7d68300a7d5e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ddbf217b.dds
+    second: {fileID: 2100000, guid: 29efda95229ebd64288770c58e6db1a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dff91144.dds
+    second: {fileID: 2100000, guid: 3b9533587eea3244696ab93909314de5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: e0fe6ce0.dds
+    second: {fileID: 2100000, guid: 1b11e81a2481fe64a8848677c90dc2a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: e8f48a94.dds
+    second: {fileID: 2100000, guid: d1cd2c7980ca32140884290285239cd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ec4eecdc.dds
+    second: {fileID: 2100000, guid: 0e4ee3b825c8b5543b9069ab749cb973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ec6f3f72.dds
+    second: {fileID: 2100000, guid: af9d76ef38cc31a41ab153de55bc2ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: efd15d2f.dds
+    second: {fileID: 2100000, guid: dbe499a09c735c545a705af7842a313c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f8b3f041.dds
+    second: {fileID: 2100000, guid: f288920b520260a4599beccdeae5b223, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f98a9cd9.dds
+    second: {fileID: 2100000, guid: d87dc2d8f935863498850f4209408675, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 1
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

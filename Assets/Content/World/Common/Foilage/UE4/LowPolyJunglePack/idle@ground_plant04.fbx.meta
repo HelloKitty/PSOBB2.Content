@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: bb2cce5b6cd915e498e51de1468c8bb6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.002
+    100008: Bone.003
+    100010: Bone.003_end
+    100012: Bone.004
+    100014: Bone.005
+    100016: Bone.006
+    100018: Bone.007
+    100020: Bone.007_end
+    100022: Bone.008
+    100024: Bone.009
+    100026: Bone.010
+    100028: Bone.011
+    100030: Bone.011_end
+    100032: Bone.012
+    100034: Bone.013
+    100036: Bone.014
+    100038: Bone.015
+    100040: Bone.015_end
+    100042: Bone.016
+    100044: Bone.017
+    100046: Bone.018
+    100048: Bone.019
+    100050: Bone.019_end
+    100052: Bone.020
+    100054: Bone.021
+    100056: Bone.022
+    100058: Bone.023
+    100060: Bone.023_end
+    100062: Camera
+    100064: ground_plant_04
+    100066: ground_plant_04.002
+    100068: //RootNode
+    100070: Lamp
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.002
+    400008: Bone.003
+    400010: Bone.003_end
+    400012: Bone.004
+    400014: Bone.005
+    400016: Bone.006
+    400018: Bone.007
+    400020: Bone.007_end
+    400022: Bone.008
+    400024: Bone.009
+    400026: Bone.010
+    400028: Bone.011
+    400030: Bone.011_end
+    400032: Bone.012
+    400034: Bone.013
+    400036: Bone.014
+    400038: Bone.015
+    400040: Bone.015_end
+    400042: Bone.016
+    400044: Bone.017
+    400046: Bone.018
+    400048: Bone.019
+    400050: Bone.019_end
+    400052: Bone.020
+    400054: Bone.021
+    400056: Bone.022
+    400058: Bone.023
+    400060: Bone.023_end
+    400062: Camera
+    400064: ground_plant_04
+    400066: ground_plant_04.002
+    400068: //RootNode
+    400070: Lamp
+    2300000: ground_plant_04.002
+    3300000: ground_plant_04.002
+    4300000: ground_plant_04.002
+    4300002: ground_plant_04
+    7400000: ground_plant04
+    9500000: //RootNode
+    13700000: ground_plant_04
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree_alpha_02
+    second: {fileID: 2100000, guid: 797b4befb61b477489ee78b71c1b4e5f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ground_plant04
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone.001
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.003_end
+        weight: 1
+      - path: Armature/Bone.004
+        weight: 1
+      - path: Armature/Bone.004/Bone.005
+        weight: 1
+      - path: Armature/Bone.004/Bone.005/Bone.006
+        weight: 1
+      - path: Armature/Bone.004/Bone.005/Bone.006/Bone.007
+        weight: 1
+      - path: Armature/Bone.004/Bone.005/Bone.006/Bone.007/Bone.007_end
+        weight: 1
+      - path: Armature/Bone.008
+        weight: 1
+      - path: Armature/Bone.008/Bone.009
+        weight: 1
+      - path: Armature/Bone.008/Bone.009/Bone.010
+        weight: 1
+      - path: Armature/Bone.008/Bone.009/Bone.010/Bone.011
+        weight: 1
+      - path: Armature/Bone.008/Bone.009/Bone.010/Bone.011/Bone.011_end
+        weight: 1
+      - path: Armature/Bone.012
+        weight: 1
+      - path: Armature/Bone.012/Bone.013
+        weight: 1
+      - path: Armature/Bone.012/Bone.013/Bone.014
+        weight: 1
+      - path: Armature/Bone.012/Bone.013/Bone.014/Bone.015
+        weight: 1
+      - path: Armature/Bone.012/Bone.013/Bone.014/Bone.015/Bone.015_end
+        weight: 1
+      - path: Armature/Bone.016
+        weight: 1
+      - path: Armature/Bone.016/Bone.017
+        weight: 1
+      - path: Armature/Bone.016/Bone.017/Bone.018
+        weight: 1
+      - path: Armature/Bone.016/Bone.017/Bone.018/Bone.019
+        weight: 1
+      - path: Armature/Bone.016/Bone.017/Bone.018/Bone.019/Bone.019_end
+        weight: 1
+      - path: Armature/Bone.020
+        weight: 1
+      - path: Armature/Bone.020/Bone.021
+        weight: 1
+      - path: Armature/Bone.020/Bone.021/Bone.022
+        weight: 1
+      - path: Armature/Bone.020/Bone.021/Bone.022/Bone.023
+        weight: 1
+      - path: Armature/Bone.020/Bone.021/Bone.022/Bone.023/Bone.023_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: ground_plant_04
+        weight: 1
+      - path: ground_plant_04.002
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
